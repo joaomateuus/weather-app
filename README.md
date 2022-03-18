@@ -1,5 +1,8 @@
-# wheater-app
-
+<h1>wheater-app</h1>
+<p>Simple wheaterApp made with Vue.js consuming an api</p>
+<ul>
+  <li>This project was built in a totally responsive way, so to see it properly you have to set in a mobile device on devTools or just split your screen</li>
+</ul>
 ## Project setup
 ```
 npm install
