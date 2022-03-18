@@ -1,7 +1,7 @@
-<h1 align="center">wheater-app</h1>
-<p>Simple wheaterApp made with vue.js consuming an api</p>
+<h1>wheater-app</h1>
+<p>Simple wheaterApp made with Vue.js consuming an api</p>
 <ul>
-  <li>This project is totally responsive, so to see the properview you have to set in a mobile device on devTools or just split your screen</li>
+  <li>This project was built in a totally responsive way, so to see it properly you have to set in a mobile device on devTools or just split your screen</li>
 </ul>
 ## Project setup
 ```
